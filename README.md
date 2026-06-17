@@ -1,5 +1,7 @@
 # SmartBank NextGen
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/smartbank-nextgen/actions)
 [![CI](https://github.com/koketseraphasha/smartbank-nextgen/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/smartbank-nextgen/actions/workflows/ci.yml)
 
 Next-generation digital banking platform with AI-powered features. Flagship Java/Spring Boot project for banking portfolios.
